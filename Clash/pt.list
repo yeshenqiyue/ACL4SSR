@@ -1,3 +1,6 @@
+# Direct
+DOMAIN-SUFFIX,ip138.com
+
 # Private Tracker
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,torrent
@@ -83,6 +86,7 @@ DOMAIN-SUFFIX,leaguehd.com
 DOMAIN-SUFFIX,lemonhd.org
 DOMAIN-SUFFIX,lztr.me
 DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,m-team.io
 DOMAIN-SUFFIX,madsrevolution.net
 DOMAIN-SUFFIX,moecat.best
 DOMAIN-SUFFIX,morethan.tv
@@ -113,7 +117,6 @@ DOMAIN-SUFFIX,sjtu.edu.cn
 DOMAIN-SUFFIX,skyey2.com
 DOMAIN-SUFFIX,soulvoice.club
 DOMAIN-SUFFIX,springsunday.net
-DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,tju.pt
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,torrentday.com
